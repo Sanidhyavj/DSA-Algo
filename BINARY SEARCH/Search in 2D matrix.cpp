@@ -1,5 +1,5 @@
 //Brute force O(n*m)
-// 2nd approach find row in which target is bounded then apply Binary Search O(n*logm)
+// 2nd approach find row in which target is bounded then apply Binary Search O(n+logm)
 // 3rd approach -
 class Solution {
 public:
